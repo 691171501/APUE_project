@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is free software.
-this is 1 changed
+this is 2 changed
